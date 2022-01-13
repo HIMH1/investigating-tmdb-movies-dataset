@@ -1,12 +1,11 @@
 # Investigate TMDB Movies Dataset
 Analyzing The Movie Database (TMDb) movies dataset. It contains information about 10,000 movies, including user ratings and revenue.
 ## Table of Contents
-<ul>
-<li><a href="#intro">Introduction</a></li>
-<li><a href="#wrangling">Data Wrangling</a></li>
-<li><a href="#eda">Exploratory Data Analysis</a></li>
-<li><a href="#conclusions">Conclusions</a></li>
-</ul>
+
+- **Introduction**
+- **Data Wrangling**
+- **Exploratory Data Analysis**
+- **Conclusions**
 
 ## Introduction
 ### Overview
